@@ -21,9 +21,9 @@
 
 请先将准备好的 API 与 key 填入。
 
-1. 如果你使用 openai 官方 API，它看起来应该是这样的：`https://api.openai.com/v1/chat/completions`。
-2. 非官方 API 请于供应商提供的 API 尾部添加 `/v1/chat/completions`。
-3. key 一般是 `sk-`开头的一段文本。
+1. 如果你使用 openai 官方 API，它看起来应该是这样的：`https://api.openai.com/v1`。
+2. 非官方 API 请于供应商提供的 API 尾部添加`/v1`(已有则无需添加)。
+3. key 一般是`sk-`开头的一段文本。
 4. 请保证前后无空白字符。
 
 当你配置好 API 与 key，请使用 sus 指令进行一次对话，测试是否成功对接 API。
