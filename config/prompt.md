@@ -15,8 +15,9 @@
     - `{{ session.user.name }}`：用户名
     - `{{ session.user.id }}`：用户 ID
   - `{{ session.channel }}`：频道
-    - `{{ session.channel.name }}`：频道名
     - `{{ session.channel.id }}`：频道 ID
+  - `{{ session.guild }}`：群组
+    - `{{ session.guild.id }}`：群组 ID
 
 你还可以在其中使用标签或过滤器等`liquid`语法，详见[文档](https://liquid.bootcss.com/)。
 
