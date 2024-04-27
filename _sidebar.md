@@ -6,6 +6,8 @@
   - [基础设置](config/basic.md)
     - [- API 与 key 配置](config/basic.md#api-与-key-配置)
     - [- 记忆长度上限](config/basic.md#记忆长度上限)
+    - [- 模型](config/basic.md#模型)
+    - [- 默认温度](config/basic.md#默认温度)
   - [提示词](config/prompt.md)
     - [- 基础提示词](config/prompt.md#基础提示词)
     - [- 高阶提示词](config/prompt.md#高阶提示词)
