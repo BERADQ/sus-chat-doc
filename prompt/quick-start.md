@@ -4,7 +4,7 @@
 
 一般来说，有两个渠道可以获得成品提示词：
 
-1. Gitee 仓库：[可疑的提示词们](https://gitee.com/NinNaNa/sus-your-prompts)
+1. GitHub 仓库：[可疑的提示词们](https://github.com/BERADQ/sus-chat-your-prompts)
 2. QQ 群：775791760
 
 相关条目：[配置/提示词](config/prompt.md)
